@@ -1,12 +1,5 @@
 <script>
-    import { goto } from '$app/navigation';
-
-    function handleClick () {
-        console.log('clicked');
-        goto('/about')
-    }
+	import Profile from '../modules/profile/Profile.svelte';
 </script>
 
-<h2>Home page</h2>
-
-<button on:click={handleClick}>go to about page</button>
+<Profile />

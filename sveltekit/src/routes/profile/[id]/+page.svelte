@@ -1,6 +1,5 @@
 <script>
-    import { page } from '$app/stores';
-    const id = $page.params.id;
-</script>
+	import ProfileDetails from "../../../modules/profile/ProfileDetails.svelte";
 
-<h1>profile route {id}</h1>
+</script>
+<ProfileDetails />
