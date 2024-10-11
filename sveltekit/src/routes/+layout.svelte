@@ -7,6 +7,8 @@
         <li style="display: inline-block; padding: 10px"><a style="text-decoration: none; color: #ffffff; text-transform: capitalize" href="/counter">Counter</a></li>
         <li style="display: inline-block; padding: 10px"><a style="text-decoration: none; color: #ffffff; text-transform: capitalize" href="/input">Input</a></li>
         <li style="display: inline-block; padding: 10px"><a style="text-decoration: none; color: #ffffff; text-transform: capitalize" href="/global-store">Global store</a></li>
+
+        <li style="display: inline-block; padding: 10px"><a style="text-decoration: none; color: #ffffff; text-transform: capitalize" href="/context-api">context api</a></li>
     </ul>
 </header>
 
