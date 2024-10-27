@@ -9,7 +9,10 @@
 
 <div>
 	<h2>Home page</h2>
-
+	<h1 class="text-3xl font-bold underline">
+		Hello world!
+	  </h1>
+	  
 	<button on:click={handleClick}>go to about page</button>
 
 	<p>
